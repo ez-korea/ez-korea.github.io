@@ -1,10 +1,10 @@
 ---
-title: Welcome
+title: 메인 페이지
 ---
 
-This is the **Edition** template from [CloudCannon](http://cloudcannon.com/).
-**Edition** is perfect for documenting your product, application or service.
-It's populated with example content to give you some ideas.
+안녕하세요. 이곳은 **이지코리아** 홈페이지입니다. [미사용링크](http://cloudcannon.com/).
+**이지코리아** 취업을 원하는 구직자를 대상으로 직업정보를 제공하는 사업을 하고 있습니다..
+좌측의 구직 탭에서 다양한 구직정보를 제공하고 있으며, 궁금하신 내용이 있으시다면, 언제든지 오프라인 상담도 가능합니다.
 
 ChatApp is a fictional chat application for sending messages and media to others.
 Teams and friend groups would use ChatApp to stay up to date if it existed.
