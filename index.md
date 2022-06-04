@@ -1,15 +1,17 @@
 ---
-title: 메인 페이지
+title: 인사
 ---
 
-안녕하세요. 이곳은 **이지코리아** 홈페이지입니다. [미사용링크](http://cloudcannon.com/).
-**이지코리아** 취업을 원하는 구직자를 대상으로 직업정보를 제공하는 사업을 하고 있습니다..
-좌측의 구직 탭에서 다양한 구직정보를 제공하고 있으며, 궁금하신 내용이 있으시다면, 언제든지 오프라인 상담도 가능합니다.
+안녕하세요. 취업을 쉽고 간편하게 **이지코리아** 입니다.
 
-ChatApp is a fictional chat application for sending messages and media to others.
-Teams and friend groups would use ChatApp to stay up to date if it existed.
+**이지코리아**는 현재 취업을 희망하는 분들이라면 누구에게나
+쉽고 도움이 되는 취업정보, 노하우를 전달해드리기 위해 노력하고 있습니다.
 
-> [Sign up](http://example.com/signup) or learn more about ChatApp at [example.com](http://example.com/).
+좌측의 구직 탭에서 다양한 구직정보를 제공하고 있으며, 많은 이용부탁드리며
+
+기타 궁금하신 내용이 있으시다면, 언제든지 오프라인 문의 부탁드립니다.
+
+언제나 취업 걱정없는 세상. 누구에게나 열린 취업기회를 제공하고자 **이지코리아** 모든 직원은 항상 최선을 다하겠습니다.
 
 ### Getting Started
 
